@@ -5,13 +5,7 @@ import { connectFunctionsEmulator, getFunctions, httpsCallable } from "firebase/
 import { connectStorageEmulator, getStorage } from "firebase/storage"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCrfDiKA-MqIcnOoc75-m7TG1txEa6IJPY",
-  authDomain: "cps22-16bf8.firebaseapp.com",
-  databaseURL: "https://cps22-16bf8-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "cps22-16bf8",
-  storageBucket: "cps22-16bf8.appspot.com",
-  messagingSenderId: "776043901754",
-  appId: "1:776043901754:web:388bd35899dc4d39919603"
+  
 };
 
 // Initialize Firebase
